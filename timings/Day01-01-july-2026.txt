@@ -1,0 +1,37 @@
+3 hours studied   networking concept 
+2 hours studied  watched vedio lecture 
+topic covered  1st day 
+ ip address 
+ subnet mask 
+ cidr 
+ port
+ osi model 
+ tcp/ip
+ tcp 
+ udp
+
+
+next day i will cover   all these topics of the networking 
+before starting the linux
+
+DNS
+
+HTTP / HTTPS
+
+Routing
+
+NAT (Network Address Translation)
+
+Gateway
+
+Firewall
+
+Security Groups
+
+NACL (Network ACL)
+
+Load Balancer
+
+Reverse Proxy
+
+Network Troubleshooting
