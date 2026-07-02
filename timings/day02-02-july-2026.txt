@@ -1,0 +1,27 @@
+Today i have compleated 3 hours of study 
+rest is 3 hours  i am completing this topics below 
+
+today i will be covering these topic  before  starting the linux
+DNS
+HTTP / HTTPS
+Routing
+NAT (Network Address Translation)
+Gateway
+Firewall
+Security Groups
+NACL (Network ACL)
+Load Balancer
+Reverse Proxy
+Network Troubleshooting
+
+Trom Tomorrow i will be  starting  linux 
+As commited to myself  i will give 6 hours daily 
+
+Basics: Commands, File System, Permissions, Processes
+Users & Groups: useradd/usermod, groups, sudoers
+Remote Access: SSH keys, hardening, common issues
+Networking: IP, ports, netstat, ss, ping, curl, traceroute
+Package Management: apt/yum, tar, gzip, wget
+Scripting: Bash scripts, loops, variables, functions, cron jobs
+System Monitoring: top, htop, df, du, free, journalctl
+ 
